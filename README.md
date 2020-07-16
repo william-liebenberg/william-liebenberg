@@ -4,7 +4,6 @@
 - 🔭 I’m currently working on [SophieBot](https://sswsophie.com)
 - 👶 I'm a dad to a wonderful little boy!
 - 💬 Ask me about:
-  - [Azure](https://www.ssw.com.au/ssw/Consulting/Azure.aspx)
   - [Azure Superpowers](https://www.ssw.com.au/ssw/Events/Training/Azure-Superpowers-Tour.aspx)
   - [Blazor](https://blazor.net)
   - [Clean Architecture](https://rules.ssw.com.au/rules-to-better-clean-architecture)
