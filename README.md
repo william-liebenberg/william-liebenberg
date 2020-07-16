@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👨‍💻 I work at SSW - check out my other profile: [https://www.ssw.com.au/people/william-liebenberg](https://www.ssw.com.au/people/william-liebenberg)
+- 👨‍💻 I work at SSW as a Solution Architect and have over 16 years of professional experience! check out my other profile: [https://www.ssw.com.au/people/william-liebenberg](https://www.ssw.com.au/people/william-liebenberg)
 - 🔭 I’m currently working on [SophieBot](https://sswsophie.com)
 - 👶 I'm a dad to a wonderful little boy!
 - 💬 Ask me about:
