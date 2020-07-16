@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+- 👨‍💻 I work at SSW - check out my other profile: [https://www.ssw.com.au/people/william-liebenberg](https://www.ssw.com.au/people/william-liebenberg)
 - 🔭 I’m currently working on [SophieBot](https://sswsophie.com)
 - 👶 I'm a dad to a wonderful little boy!
 - 💬 Ask me about [Azure](https://www.ssw.com.au/ssw/Consulting/Azure.aspx), [Blazor](https://blazor.net), [Kubernetes](https://www.ssw.com.au/ssw/Consulting/Kubernetes.aspx) and [SpendOps](https://azuregems.io/spendops-with-azure-cosmos-db/)
