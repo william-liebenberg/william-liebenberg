@@ -14,4 +14,4 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: The moon isn't really made of cheese
 
-[![William's github stats](https://github-readme-stats.vercel.app/api?username=william-liebenberg&theme=dracula)](https://github.com/william-liebenberg/github-readme-stats)
+[![William's github stats](https://github-readme-stats.vercel.app/api?username=william-liebenberg&theme=merko)](https://github.com/william-liebenberg/github-readme-stats)
