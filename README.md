@@ -17,10 +17,10 @@
 <div align="center">
   
 ![William Liebenberg's Stats](https://github-readme-stats.vercel.app/api?username=william-liebenberg&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
+![William Liebenberg's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=william-liebenberg&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 
 ![William Liebenberg's Streak](https://github-readme-streak-stats.herokuapp.com/?user=william-liebenberg&theme=vue-dark&hide_border=false)
 
-![William Liebenberg's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=william-liebenberg&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 
   ![William Liebenberg's Graph](https://github-readme-activity-graph.vercel.app/graph?username=william-liebenberg&custom_title=William's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
   
