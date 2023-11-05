@@ -21,3 +21,5 @@
 ![William Liebenberg's Streak](https://github-readme-streak-stats.herokuapp.com/?user=william-liebenberg&theme=vue-dark&hide_border=false)
 
 ![William Liebenberg's Graph](https://github-readme-activity-graph.vercel.app/graph?username=william-liebenberg&custom_title=William's%20GitHub%20Activity%20Graph&bg_color=273848&color=3ea37a&line=3ea37a&point=3ea37a&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
+[![William Liebenberg's Holopin badges](https://holopin.me/williamliebenberg)](https://holopin.io/@williamliebenberg)
